@@ -3,7 +3,8 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /source
 
 # Copy và restore dependencies
-COPY *.csproj .
+COPY *.sln .
+COPY testCICD/*.csproj ./testCICD/
 RUN dotnet restore
 
 # Copy toàn bộ source code và publish

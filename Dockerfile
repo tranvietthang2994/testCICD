@@ -19,4 +19,4 @@ COPY --from=build /app/publish .
 EXPOSE 8080
 
 # Thay "YourProjectName.dll" bằng tên file .dll chính của bạn
-ENTRYPOINT ["dotnet", "YourProjectName.dll"]
+ENTRYPOINT ["dotnet", "testCICD.dll"]

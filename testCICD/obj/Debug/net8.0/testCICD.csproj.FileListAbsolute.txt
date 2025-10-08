@@ -29,3 +29,4 @@ D:\FPT\Ki8\PRN232\testCICD\testCICD\obj\Debug\net8.0\refint\testCICD.dll
 D:\FPT\Ki8\PRN232\testCICD\testCICD\obj\Debug\net8.0\testCICD.pdb
 D:\FPT\Ki8\PRN232\testCICD\testCICD\obj\Debug\net8.0\testCICD.genruntimeconfig.cache
 D:\FPT\Ki8\PRN232\testCICD\testCICD\obj\Debug\net8.0\ref\testCICD.dll
+D:\FPT\Ki8\PRN232\testCICD\testCICD\obj\Debug\net8.0\testCICD.sourcelink.json

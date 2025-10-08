@@ -1,0 +1,8 @@
+services:
+  # Dịch vụ ASP.NET API
+  api:
+    build: .
+    container_name: testcicd_api
+    ports:
+      # Ánh xạ port 8080 của VPS vào port 8080 của container
+      - "8080:8080"
